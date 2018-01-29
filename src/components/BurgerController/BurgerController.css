@@ -1,0 +1,21 @@
+.controls{
+    padding: 20px;
+    text-align: left;
+    background: #FFCC11;
+}
+.controls h3{
+    text-align: center;
+}
+.controls-row{
+    padding: 0 0 20px;
+}
+.controls-row span{
+    display: inline-block;
+    margin: 0 20px 0 50px;
+    width: 100px;
+}
+.controls-row .controls-btn{
+    padding: 5px 20px;
+    margin-right: 20px;
+    cursor:pointer;
+}
